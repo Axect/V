@@ -1,2 +1,4 @@
 */bin
 */**/bin
+*/**/.vpkg-lock.json
+*/.vpkg-lock.json
